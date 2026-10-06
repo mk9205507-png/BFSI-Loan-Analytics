@@ -1,0 +1,5 @@
+﻿Count of Loan_ID,Column Labels,,,,,
+Row Labels, Approved, Rejected,Grand Total,,Education,Approval Rate
+ Graduate,1339,805,2144,,Graduate,62.45%
+ Not Graduate,1317,808,2125,,Not Graduate,61.98%
+Grand Total,2656,1613,4269,,,
